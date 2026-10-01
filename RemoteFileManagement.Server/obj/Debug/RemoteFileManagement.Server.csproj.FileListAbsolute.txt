@@ -1,0 +1,11 @@
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\bin\Debug\Server.config
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\bin\Debug\RemoteFileManagement.Server.exe.config
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\bin\Debug\RemoteFileManagement.Server.exe
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\bin\Debug\RemoteFileManagement.Server.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\bin\Debug\RemoteFileManagement.Shared.dll
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\bin\Debug\RemoteFileManagement.Shared.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\obj\Debug\RemoteFileManagement.Server.csproj.AssemblyReference.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\obj\Debug\RemoteFileManagement.Server.csproj.CoreCompileInputs.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\obj\Debug\RemoteFi.540A2FAF.Up2Date
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\obj\Debug\RemoteFileManagement.Server.exe
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Server\obj\Debug\RemoteFileManagement.Server.pdb

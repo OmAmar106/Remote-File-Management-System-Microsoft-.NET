@@ -1,0 +1,14 @@
+=====================================================
+  Welcome to Remote File Management System (.NET Remoting)
+=====================================================
+
+This server allows remote clients to manage files and folders
+over a high-performance TCP Remoting channel.
+
+Supported Features:
+- Create, Read, Write, Append, Update, Delete text files
+- Rename, Copy, and Move files remotely
+- Create, Delete, and Rename directories
+- Upload and Download any binary file format (.pdf, .jpg, .docx, .zip)
+- Recursive file search and metadata inspection
+- Strict path traversal security enforcement

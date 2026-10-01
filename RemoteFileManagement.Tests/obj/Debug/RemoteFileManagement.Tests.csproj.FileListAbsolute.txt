@@ -1,0 +1,9 @@
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\bin\Debug\RemoteFileManagement.Tests.exe
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\bin\Debug\RemoteFileManagement.Tests.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\bin\Debug\RemoteFileManagement.Shared.dll
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\bin\Debug\RemoteFileManagement.Shared.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\obj\Debug\RemoteFileManagement.Tests.csproj.AssemblyReference.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\obj\Debug\RemoteFileManagement.Tests.csproj.CoreCompileInputs.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\obj\Debug\RemoteFi.EBF4B87E.Up2Date
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\obj\Debug\RemoteFileManagement.Tests.exe
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Tests\obj\Debug\RemoteFileManagement.Tests.pdb

@@ -1,0 +1,42 @@
+[2026-09-24 23:47:08] [SERVER BROADCAST] hi
+[2026-09-24 23:48:12] [FILE_CREATED] Item 'CSL423S124-25.pdf' was created on server.
+[2026-09-24 23:48:12] [FILE_CREATED] Item 'CSL423S124-25.pdf' was created on server.
+[2026-09-24 23:49:33] [SERVER BROADCAST] Hiii
+[2026-09-25 12:21:55] [SERVER BROADCAST] Hi
+[2026-09-25 12:27:53] [FILE_CREATED] Item 'Documents/client_broadcasts_log.txt' was created on server.
+[2026-09-25 12:27:53] [FILE_CREATED] Item 'Documents/client_broadcasts_log.txt' was created on server.
+[2026-09-25 12:21:55] [SERVER BROADCAST] Hi
+[2026-09-25 12:27:53] [FILE_CREATED] Item 'Documents/client_broadcasts_log.txt' was created on server.
+[2026-09-25 12:27:53] [FILE_CREATED] Item 'Documents/client_broadcasts_log.txt' was created on server.
+[2026-09-25 12:27:53] [FILE_CREATED] Item 'Documents/client_broadcasts_log.txt' was created on server.
+[2026-09-25 12:27:53] [FILE_CREATED] Item 'Documents/client_broadcasts_log.txt' was created on server.
+[2026-09-25 12:38:00] [SERVER BROADCAST] This is general broadcast
+[2026-09-25 12:38:00] [SERVER BROADCAST] This is general broadcast
+[2026-09-25 13:10:48] [SERVER BROADCAST] This is general Broadcasting msg
+[2026-09-25 13:10:48] [SERVER BROADCAST] This is general Broadcasting msg
+[2026-09-25 13:18:01] [FILE_CREATED] Item 'student.txt' was created on server.
+[2026-09-25 13:18:01] [FILE_CREATED] Item 'student.txt' was created on server.
+[2026-09-25 13:18:01] [FILE_CREATED] Item 'student.txt' was created on server.
+[2026-09-25 13:18:01] [FILE_CREATED] Item 'student.txt' was created on server.
+[2026-09-25 13:18:01] [FILE_CREATED] Item 'student.txt' was created on server.
+[2026-09-25 13:18:01] [FILE_CREATED] Item 'student.txt' was created on server.
+[2026-09-25 13:21:16] [FILE_CREATED] Item 'share.txt' was created on server.
+[2026-09-25 13:21:16] [FILE_CREATED] Item 'share.txt' was created on server.
+[2026-09-25 13:21:16] [FILE_CREATED] Item 'share.txt' was created on server.
+[2026-09-25 13:21:16] [FILE_CREATED] Item 'share.txt' was created on server.
+[2026-09-27 22:30:57] [SERVER BROADCAST] Hi Kshitij here to all clients
+[2026-09-27 22:30:57] [SERVER BROADCAST] Hi Kshitij here to all clients
+[2026-09-27 22:30:57] [SERVER BROADCAST] Hi Kshitij here to all clients
+[2026-09-28 15:19:26] [FILE_CREATED] Item 'Documents/NewDemoFile' was created on server.
+[2026-09-28 15:19:26] [FILE_CREATED] Item 'Documents/NewDemoFile' was created on server.
+[2026-09-28 15:29:32] [FILE_RENAMED] Item 'Documents/NewDemoFile' was renamed to 'Documents/NewFileName' on server.
+[2026-09-28 15:29:32] [FILE_RENAMED] Item 'Documents/NewDemoFile' was renamed to 'Documents/NewFileName' on server.
+[2026-09-28 15:31:00] [FILE_CREATED] Item 'CopyFolder' was created on server.
+[2026-09-28 15:31:00] [FILE_CREATED] Item 'CopyFolder' was created on server.
+[2026-09-28 15:31:10] [FILE_CREATED] Item 'CopyFolder/notes.txt' was created on server.
+[2026-09-28 15:31:10] [FILE_CREATED] Item 'CopyFolder/notes.txt' was created on server.
+[2026-09-28 15:33:36] [FILE_CREATED] Item 'Documents/1. Introduction.pdf' was created on server.
+[2026-09-28 15:33:36] [FILE_CREATED] Item 'Documents/1. Introduction.pdf' was created on server.
+[2026-09-28 15:42:04] [FILE_DELETED] Item 'Documents/NewFileName' was deleted from server.
+[2026-09-28 15:42:04] [FILE_DELETED] Item 'Documents/NewFileName' was deleted from server.
+[2026-09-28 15:46:09] [SERVER BROADCAST] Hi to all

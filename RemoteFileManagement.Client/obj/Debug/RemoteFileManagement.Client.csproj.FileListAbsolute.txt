@@ -1,0 +1,11 @@
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\bin\Debug\Client.config
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\bin\Debug\RemoteFileManagement.Client.exe.config
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\bin\Debug\RemoteFileManagement.Client.exe
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\bin\Debug\RemoteFileManagement.Client.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\bin\Debug\RemoteFileManagement.Shared.dll
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\bin\Debug\RemoteFileManagement.Shared.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\obj\Debug\RemoteFileManagement.Client.csproj.AssemblyReference.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\obj\Debug\RemoteFileManagement.Client.csproj.CoreCompileInputs.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\obj\Debug\RemoteFi.791375D3.Up2Date
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\obj\Debug\RemoteFileManagement.Client.exe
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Client\obj\Debug\RemoteFileManagement.Client.pdb

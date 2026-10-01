@@ -1,0 +1,6 @@
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Shared\obj\Debug\RemoteFileManagement.Shared.csproj.AssemblyReference.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Shared\obj\Debug\RemoteFileManagement.Shared.csproj.CoreCompileInputs.cache
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Shared\bin\Debug\RemoteFileManagement.Shared.dll
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Shared\bin\Debug\RemoteFileManagement.Shared.pdb
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Shared\obj\Debug\RemoteFileManagement.Shared.dll
+c:\DCS\RemoteFileManagementSystem\RemoteFileManagement.Shared\obj\Debug\RemoteFileManagement.Shared.pdb

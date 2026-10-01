@@ -1,0 +1,7 @@
+PROJECT NOTES:
+- Technology: .NET Remoting (Legacy .NET Framework)
+- Protocol: TCP Channel with Binary Formatter
+- Object Lifetime: Infinite lease (Initial
+- Architecture: Client-Server with Shared Contracts Library
+
+this is file append 
